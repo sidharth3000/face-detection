@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ezewev/static/css/main.28ddbf6f.chunk.css",
+    "main.js": "/ezewev/static/js/main.0c5f454e.chunk.js",
+    "main.js.map": "/ezewev/static/js/main.0c5f454e.chunk.js.map",
+    "runtime-main.js": "/ezewev/static/js/runtime-main.79be8037.js",
+    "runtime-main.js.map": "/ezewev/static/js/runtime-main.79be8037.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/ezewev/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.972aa3c4.chunk.js": "/ezewev/static/js/2.972aa3c4.chunk.js",
+    "static/js/2.972aa3c4.chunk.js.map": "/ezewev/static/js/2.972aa3c4.chunk.js.map",
+    "index.html": "/ezewev/index.html",
+    "precache-manifest.54a25972691f72c1312ad35a98ba51ef.js": "/ezewev/precache-manifest.54a25972691f72c1312ad35a98ba51ef.js",
+    "service-worker.js": "/ezewev/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/ezewev/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.28ddbf6f.chunk.css.map": "/ezewev/static/css/main.28ddbf6f.chunk.css.map",
+    "static/js/2.972aa3c4.chunk.js.LICENSE.txt": "/ezewev/static/js/2.972aa3c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79be8037.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.972aa3c4.chunk.js",
+    "static/css/main.28ddbf6f.chunk.css",
+    "static/js/main.0c5f454e.chunk.js"
+  ]
+}
